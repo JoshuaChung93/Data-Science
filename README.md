@@ -1,5 +1,3 @@
-# Welcome to GitHub Desktop!
+This is a space in which to upload studies related to Data Science
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+Related content: Data Analysis with Python by IBM
