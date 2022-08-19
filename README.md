@@ -1,3 +1,3 @@
-This is a space in which to upload studies related to Data Science
+This is a space to upload studies related to Data Science
 
-Related content: Data Analysis with Python by IBM
+Related content: Data Analysis with Python by IBM / Machine Learning with Python: A Practical Introduction
